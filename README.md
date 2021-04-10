@@ -1,4 +1,6 @@
 # In_Memory_Text_Editor
+The in memory text editor focuses on using Doubly Linked List data structure for storing and accessing text data for using in a text editor. This text editor will be able to directly locate a position on the screen and efficiently able to enter new text data into the doubly linked list.
+
 The in memory text editor with the GUI interface is able to store the text entered in the console window and print it back onto the console window in the format it was entered.
 
 ### We have used the following operations :

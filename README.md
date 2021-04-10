@@ -1,7 +1,7 @@
 # In_Memory_Text_Editor
 The in memory text editor with the GUI interface is able to store the text entered in the console window and print it back onto the console window in the format it was entered.
 
-## We have used the following operations :
+### We have used the following operations :
 
 1. Insertion − Adds an element at the current position of the cursor.
 2. Display − Displays the complete list.
